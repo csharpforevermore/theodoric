@@ -41,7 +41,7 @@ Josh Morony - How to Create an Animated Character Using Sprites in Phaser
 http://www.joshmorony.com/how-to-create-an-animated-character-using-sprites-in-phaser/
 
 Jeff Schomay - Tutorial: Building a polished HTML5 space shooter game with Phaser.js
-http://jschomay.tumblr.com/post/103568304133/tutorial-building-a-polished-html5-space-shooter
+http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/
 
 Alaa-eddine - Tutorial : Creating a basic multiplayer game with Phaser and Eureca.io
 http://ezelia.com/2014/tutorial-creating-basic-multiplayer-game-phaser-eureca-io
